@@ -6,11 +6,33 @@ html
 }
 
 /*Navigation menu styling*/
-div
-{
-
+.nav_menu_bar {
+    background-color: #333; /* Set background color */
 }
-.nav_menu
-{
 
+.nav_menu_bar ul {
+    list-style-type: none; /* Remove bullet points */
+    margin: 0;
+    padding: 0;
+}
+
+.nav_menu_bar li {
+    display: inline; /* Display list items horizontally */
+}
+
+.nav_menu_bar a {
+    display: inline-block; /* Display links as blocks */
+    padding: 10px 15px; /* Add padding to links */
+    text-decoration: none; /* Remove underline from links */
+    color: white; /* Set text color */
+}
+
+.nav_menu_bar a:hover {
+    background-color: #555; /* Change background color on hover */
+}
+
+.nav_bar_ico {
+    width: 24px; /* Set width of icon */
+    height: 24px; /* Set height of icon */
+    vertical-align: middle; /* Align icon vertically */
 }
