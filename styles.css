@@ -91,7 +91,7 @@ html
 
 .nav_menu_bar a {
     display: inline-block; /* Display links as blocks */
-    padding: 1rem 1.5rem; /* Add padding to links */
+    padding: 1rem 1rem; /* Add padding to links */
     text-decoration: none; /* Remove underline from links */
     color: white; /* Set text color */
 }
@@ -113,12 +113,13 @@ html
   border-style: groove;
   border-color: grey;
   background-color: #2A9134;
-  padding: 10%;
+  padding: 5%;
 }
 
 #profile_pic
 {
-  padding: 2%;
+  padding: 1rem;
+  background-color: grey;
 }
 
 #content_table_data
