@@ -77,13 +77,13 @@ html
 /*Navigation menu styling*/
 .nav_menu_bar {
     background-color: #5BBA6F; /* Set background color */
+    position: sticky;
 }
 
 .nav_menu_bar ul {
     list-style-type: none; /* Remove bullet points */
     margin: 0;
     padding: 0;
-    position: static;
 }
 
 .nav_menu_bar li {
