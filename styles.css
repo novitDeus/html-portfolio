@@ -105,3 +105,17 @@ html
     height: 24px; /* Set height of icon */
     vertical-align: middle; /* Align icon vertically */
 }
+
+/*Content Table*/
+.content_table
+{
+  border: solid;
+  border-style: groove;
+  border-color: grey;
+  background-color: #2A9134;
+}
+
+#content_table_data
+{
+  padding: 5%;
+}
