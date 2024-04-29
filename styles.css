@@ -115,6 +115,11 @@ html
   background-color: #2A9134;
 }
 
+#profile_pic
+{
+  padding: 2%;
+}
+
 #content_table_data
 {
   padding: 5%;
