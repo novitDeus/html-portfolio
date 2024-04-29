@@ -77,7 +77,6 @@ html
 /*Navigation menu styling*/
 .nav_menu_bar {
     background-color: #5BBA6F; /* Set background color */
-    position: sticky;
 }
 
 .nav_menu_bar ul {
@@ -92,7 +91,7 @@ html
 
 .nav_menu_bar a {
     display: inline-block; /* Display links as blocks */
-    padding: 10px 15px; /* Add padding to links */
+    padding: 1rem 1.5rem; /* Add padding to links */
     text-decoration: none; /* Remove underline from links */
     color: white; /* Set text color */
 }
@@ -114,6 +113,7 @@ html
   border-style: groove;
   border-color: grey;
   background-color: #2A9134;
+  padding: 10%;
 }
 
 #profile_pic
