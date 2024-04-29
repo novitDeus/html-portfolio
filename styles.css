@@ -1,7 +1,6 @@
 /*Global*/
 html
 {
-    background-color: chartreuse;
     font-family: 'Courier New', Courier, monospace;
 }
 
@@ -35,4 +34,5 @@ html
     width: 24px; /* Set width of icon */
     height: 24px; /* Set height of icon */
     vertical-align: middle; /* Align icon vertically */
+    color: white;
 }
