@@ -120,9 +120,16 @@ html
 {
   padding: 1rem;
   background-color: grey;
+  vertical-align: top;
 }
 
 #content_table_data
 {
   padding: 5%;
+}
+
+#cv_table_header
+{
+  padding: 5%;
+  align-content: start;
 }
