@@ -77,6 +77,7 @@ html
 /*Navigation menu styling*/
 .nav_menu_bar {
     background-color: #5BBA6F; /* Set background color */
+    padding: 0.5rem;
 }
 
 .nav_menu_bar ul {
@@ -118,9 +119,11 @@ html
 
 #profile_pic
 {
-  padding: 1rem;
+  padding: 1 rem;
   background-color: grey;
   vertical-align: top;
+  width: 10 rem;
+  height: 10 rem;
 }
 
 #content_table_data
